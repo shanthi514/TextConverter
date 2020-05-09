@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+#myDiv {
+  width: 190px;
+  margin: 11px 1px 8px 10px;
+}
+#para1{
+  background-color: #fab7b7;
+}
+#para2 {
+  background-color: #162447;
+}
+#para3{
+  background-color: #58b4ae;
+}
+#para4 {
+  background-color: #c3edea;
+}
+p{
+  width: 200px;
+    margin: 15px;
+}
