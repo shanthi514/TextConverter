@@ -1,4 +1,4 @@
 # Text Converter
-. Small Letters
-. Capital Letters
-. Alternative Case
+* Small Letters
+* Capital Letters
+* Alternative Case
